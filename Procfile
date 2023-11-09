@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath catcollector_project catcollector_project.wsgi
